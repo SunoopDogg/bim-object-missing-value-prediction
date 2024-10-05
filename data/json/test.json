@@ -1,0 +1,409 @@
+[
+    {
+        "ObjectType": "IfcBuildingElementProxy",
+        "GlobalID": "1_irOZSpb6OOJC_u7aKaOm",
+        "Name": "대치동Elevator-Door:1100:119822",
+        "NaN": {
+            "PredefinedType": NaN,
+            "ObjectType": "대치동Elevator-Door:1100"
+        },
+        "ID 데이터(Type)": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "OmniClass 번호": NaN,
+            "OmniClass 제목": NaN,
+            "유형 이름": "1100",
+            "코드 이름": NaN
+        },
+        "Pset_BuildingElementProxyCommon": {
+            "Reference": "1100"
+        },
+        "Pset_ProvisionForVoid": {
+            "Shape": "Rectangle",
+            "Width": 2159.0000000000014,
+            "Height": 1112.7000000000005,
+            "Depth": 200
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "1100"
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "레벨": "1F"
+        },
+        "구속조건(Type)": {
+            "기본 높이": 0
+        },
+        "기타": {
+            "유형": "1100",
+            "유형 ID": "119907",
+            "카테고리": "일반 모델",
+            "패밀리": "대치동Elevator-Door",
+            "패밀리 및 유형": "대치동Elevator-Door: 1100",
+            "호스트 ID": "92824"
+        },
+        "기타(Type)": {
+            "카테고리": "일반 모델",
+            "Car Depth": 2895.6,
+            "Car Width": 1828.8000000000002,
+            "Door Height": 2133.6,
+            "Door Width": 1100,
+            "Trim Projection": 25.4,
+            "Trim Width": 76.2,
+            "패밀리 이름": "대치동Elevator-Door"
+        },
+        "치수": {
+            "면적": 5.8001203790840385,
+            "체적": 0.23641205350517522
+        }
+    },
+    {
+        "ObjectType": "IfcBuildingElementProxy",
+        "GlobalID": "3F3dHMi2H6lv7t2a8SeWN8",
+        "Name": "140171",
+        "NaN": {
+            "PredefinedType": NaN,
+            "ObjectType": NaN
+        },
+        "Pset_BuildingElementProxyCommon": {
+            "Reference": NaN
+        },
+        "Pset_ProvisionForVoid": {
+            "Shape": "Rectangle",
+            "Width": 2159.0000000000014,
+            "Height": 1112.7000000000005,
+            "Depth": 269.99999999999926
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": NaN
+        },
+        "공정": {
+            "생성 공정": "조적"
+        },
+        "구속조건": {
+            "레벨에서의 간격띄우기": 0,
+            "벽으로부터 간격띄우기": -4
+        },
+        "기타": {
+            "카테고리": "벽: 벽 스윕"
+        },
+        "치수": {
+            "길이": 2379.999999999537
+        }
+    },
+    {
+        "ObjectType": "IfcBuildingElementProxy",
+        "GlobalID": "3F3dHMi2H6lv7t2a8SeZcv",
+        "Name": "139258",
+        "NaN": {
+            "PredefinedType": NaN,
+            "ObjectType": NaN
+        },
+        "Pset_BuildingElementProxyCommon": {
+            "Reference": NaN
+        },
+        "Pset_ProvisionForVoid": {
+            "Shape": "Rectangle",
+            "Width": 2159.0000000000014,
+            "Height": 1112.7000000000005,
+            "Depth": 600
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": NaN
+        },
+        "공정": {
+            "생성 공정": "조적"
+        },
+        "구속조건": {
+            "레벨에서의 간격띄우기": 0,
+            "벽으로부터 간격띄우기": -286
+        },
+        "기타": {
+            "카테고리": "벽: 벽 스윕"
+        },
+        "치수": {
+            "길이": 2125.9999999999877
+        }
+    },
+    {
+        "ObjectType": "IfcDoor",
+        "GlobalID": "1QNAriMu1FlxXB_d6tGdho",
+        "Name": "FSD-2:1.0x2.2:116174",
+        "NaN": {
+            "PredefinedType": NaN,
+            "ObjectType": "FSD-2:1.0x2.2"
+        },
+        "ID 데이터": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "OmniClass 번호": NaN,
+            "OmniClass 제목": NaN,
+            "코드 이름": NaN,
+            "유형 마크": "63",
+            "유형 이름": "1.0x2.2",
+            "마크": "19"
+        },
+        "Pset_DoorCommon": {
+            "IsExternal": 0,
+            "Reference": "1.0x2.2"
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "1.0x2.2"
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "레벨": "1F",
+            "씰 높이": 0
+        },
+        "기타": {
+            "카테고리": "문",
+            "위치": 200,
+            "패밀리 이름": "FSD-2",
+            "유형": "1.0x2.2",
+            "유형 ID": "117724",
+            "패밀리": "FSD-2",
+            "패밀리 및 유형": "FSD-2: 1.0x2.2",
+            "헤드 높이": 2200,
+            "호스트 ID": "92801"
+        },
+        "시공": {
+            "기능": "내부",
+            "벽 마무리": "호스트별"
+        },
+        "치수": {
+            "높이": 2200,
+            "대략적인 폭": 1020,
+            "두께": 100,
+            "폭": 1400,
+            "면적": 3.322741314951851,
+            "체적": 0.108967934532422
+        },
+        "해석 특성": {
+            "열 특성 정의 기준": "개략적 유형",
+            "해석 시공": "<없음>"
+        }
+    },
+    {
+        "ObjectType": "IfcDoor",
+        "GlobalID": "1QNAriMu1FlxXB_d6tGdi5",
+        "Name": "FSD-1:1.0x2.2:115769",
+        "NaN": {
+            "PredefinedType": NaN,
+            "ObjectType": "FSD-1:1.0x2.2"
+        },
+        "ID 데이터": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "OmniClass 번호": NaN,
+            "OmniClass 제목": NaN,
+            "코드 이름": NaN,
+            "유형 마크": "60",
+            "유형 이름": "1.0x2.2",
+            "마크": "18"
+        },
+        "Pset_DoorCommon": {
+            "IsExternal": 0,
+            "Reference": "1.0x2.2"
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "1.0x2.2"
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "레벨": "1F",
+            "씰 높이": 0
+        },
+        "기타": {
+            "카테고리": "문",
+            "위치": 200,
+            "패밀리 이름": "FSD-1",
+            "유형": "1.0x2.2",
+            "유형 ID": "115763",
+            "패밀리": "FSD-1",
+            "패밀리 및 유형": "FSD-1: 1.0x2.2",
+            "헤드 높이": 2200,
+            "호스트 ID": "92844"
+        },
+        "시공": {
+            "기능": "내부",
+            "벽 마무리": "호스트별"
+        },
+        "치수": {
+            "높이": 2200,
+            "대략적인 폭": 1020,
+            "두께": 100,
+            "폭": 1000.0000000000001,
+            "면적": 2.2979513149518582,
+            "체적": 0.07625283053242213
+        },
+        "해석 특성": {
+            "열 특성 정의 기준": "개략적 유형",
+            "해석 시공": "<없음>"
+        }
+    },
+    {
+        "ObjectType": "IfcRailing",
+        "GlobalID": "1QNAriMu1FlxXB_d6tGabj",
+        "Name": "난간:발코니후면:128593",
+        "NaN": {
+            "PredefinedType": "NOTDEFINED",
+            "ObjectType": "난간:발코니후면"
+        },
+        "ID 데이터(Type)": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "유형 이름": "발코니후면"
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "발코니후면"
+        },
+        "Pset_RailingCommon": {
+            "IsExternal": 0,
+            "Reference": "발코니후면",
+            "Height": 1219.2
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "베이스 간격띄우기": 0,
+            "경로에서 간격띄우기": 0,
+            "베이스 레벨": "1F"
+        },
+        "기타": {
+            "유형": "발코니후면",
+            "유형 ID": "128945",
+            "카테고리": "난간",
+            "패밀리": "난간",
+            "패밀리 및 유형": "난간: 발코니후면"
+        },
+        "기타(Type)": {
+            "카테고리": "난간",
+            "패밀리 이름": "난간"
+        },
+        "시공(Type)": {
+            "각도 결합": "수직/수평 세그먼트 추가",
+            "계단참 높이 조정": 0,
+            "계단참 높이 조정 사용": 0,
+            "난간 높이": 0,
+            "난간동자 간격띄우기": 0,
+            "난간 연결": "자르기",
+            "접선 결합": "만날 때까지 난간 확장"
+        },
+        "치수": {
+            "길이": 2210.0000000009272
+        }
+    },
+    {
+        "ObjectType": "IfcRailing",
+        "GlobalID": "1QNAriMu1FlxXB_d6tGadX",
+        "Name": "난간:발코니전면:128733",
+        "NaN": {
+            "PredefinedType": "NOTDEFINED",
+            "ObjectType": "난간:발코니전면"
+        },
+        "ID 데이터(Type)": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "유형 이름": "발코니전면"
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "발코니전면"
+        },
+        "Pset_RailingCommon": {
+            "IsExternal": 0,
+            "Reference": "발코니전면",
+            "Height": 1219.2
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "베이스 간격띄우기": 0,
+            "경로에서 간격띄우기": 0,
+            "베이스 레벨": "1F"
+        },
+        "기타": {
+            "카테고리": "난간",
+            "패밀리": "난간",
+            "유형": "발코니전면",
+            "유형 ID": "128600",
+            "패밀리 및 유형": "난간: 발코니전면"
+        },
+        "기타(Type)": {
+            "카테고리": "난간",
+            "패밀리 이름": "난간"
+        },
+        "시공(Type)": {
+            "각도 결합": "수직/수평 세그먼트 추가",
+            "계단참 높이 조정": 0,
+            "계단참 높이 조정 사용": 0,
+            "난간 높이": 0,
+            "난간동자 간격띄우기": 0,
+            "난간 연결": "자르기",
+            "접선 결합": "만날 때까지 난간 확장"
+        },
+        "치수": {
+            "길이": 2160.0000000012833
+        }
+    },
+    {
+        "ObjectType": "IfcRailing",
+        "GlobalID": "1QNAriMu1FlxXB_d6tGaUA",
+        "Name": "난간:발코니후면:129206",
+        "NaN": {
+            "PredefinedType": "NOTDEFINED",
+            "ObjectType": "난간:발코니후면"
+        },
+        "ID 데이터(Type)": {
+            "조합 설명": NaN,
+            "조합 코드": NaN,
+            "유형 이름": "발코니후면"
+        },
+        "Pset_QuantityTakeOff": {
+            "Reference": "발코니후면"
+        },
+        "Pset_RailingCommon": {
+            "IsExternal": 0,
+            "Reference": "발코니후면",
+            "Height": 1219.2
+        },
+        "공정": {
+            "생성 공정": "골조"
+        },
+        "구속조건": {
+            "베이스 간격띄우기": 0,
+            "경로에서 간격띄우기": 0,
+            "베이스 레벨": "1F"
+        },
+        "기타": {
+            "유형": "발코니후면",
+            "유형 ID": "128945",
+            "카테고리": "난간",
+            "패밀리": "난간",
+            "패밀리 및 유형": "난간: 발코니후면"
+        },
+        "기타(Type)": {
+            "카테고리": "난간",
+            "패밀리 이름": "난간"
+        },
+        "시공(Type)": {
+            "각도 결합": "수직/수평 세그먼트 추가",
+            "계단참 높이 조정": 0,
+            "계단참 높이 조정 사용": 0,
+            "난간 높이": 0,
+            "난간동자 간격띄우기": 0,
+            "난간 연결": "자르기",
+            "접선 결합": "만날 때까지 난간 확장"
+        },
+        "치수": {
+            "길이": 930.0000028599753
+        }
+    }
+]
