@@ -2,10 +2,10 @@ import json
 import os
 import pandas as pd
 
-import difflib
 
+from similarity.cosine_similarity import get_cosine_similarity
+from similarity.gestalt_pattern_matching import get_gestalt_pattern_matching
 from util.change_extension import xlsx_to_json
-from util.pre_processing import get_token, remove_except_parentheses
 
 
 def get_object_name(json_data):
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     data_dir = os.path.join(os.getcwd(), "data")
     json_dir = os.path.join(data_dir, "json")
 
-    file_name = "속성테이블(법규검토)"
+    file_name = "속성테이블2(빌딩스마트협화)"
 
     # xlsx_to_json(file_name)
 
@@ -45,31 +45,11 @@ if __name__ == '__main__':
     names = get_object_name(json_data)
     values = get_object_values(json_data)
 
-    result = []
-    for idx, name in enumerate(names):
-        tokens = get_token(remove_except_parentheses(name))
+    # result = get_gestalt_pattern_matching(names, values)
+    result = get_cosine_similarity(names, values)
 
-        similarity = {}
-        for token in tokens:
-            if similarity.get(token) is None:
-                similarity[token] = []
-            else:
-                continue
-
-            for value in values[idx]:
-                if pd.isna(value):
-                    similarity[token].append(0)
-                else:
-                    similarity[token].append(difflib.SequenceMatcher(
-                        None, str(value), str(token)).ratio())
-
-        df = pd.DataFrame.from_dict(
-            similarity, orient='index', columns=values[idx])
-        df = df.transpose()
-
-        result.append(df)
-
-    save_path = os.path.join(data_dir, "similarity", f"{file_name}.xlsx")
+    save_path = os.path.join(data_dir, "similarity", f"{
+                             file_name}_cosine.xlsx")
 
     last_row = 0
     with pd.ExcelWriter(save_path) as writer:
