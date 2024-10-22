@@ -3,8 +3,9 @@ import os
 import pandas as pd
 
 
-from similarity.cosine_similarity import get_cosine_similarity
-from similarity.gestalt_pattern_matching import get_gestalt_pattern_matching
+# from similarity.cosine_similarity import get_cosine_similarity
+# from similarity.gestalt_pattern_matching import get_gestalt_pattern_matching
+from similarity.jaccard_similarity import get_jaccard_similarity
 from util.change_extension import xlsx_to_json
 
 
@@ -46,10 +47,10 @@ if __name__ == '__main__':
     values = get_object_values(json_data)
 
     # result = get_gestalt_pattern_matching(names, values)
-    result = get_cosine_similarity(names, values)
+    result = get_jaccard_similarity(names, values)
 
     save_path = os.path.join(data_dir, "similarity", f"{
-                             file_name}_cosine.xlsx")
+                             file_name}_jaccard.xlsx")
 
     last_row = 0
     with pd.ExcelWriter(save_path) as writer:
