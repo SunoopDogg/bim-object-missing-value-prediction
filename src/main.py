@@ -3,10 +3,11 @@ import os
 import pandas as pd
 
 
-# from similarity.cosine_similarity import get_cosine_similarity
+from similarity.cosine_similarity import get_cosine_similarity, get_cosine_similarity_tf_idf
 # from similarity.gestalt_pattern_matching import get_gestalt_pattern_matching
 from similarity.jaccard_similarity import get_jaccard_similarity
 from util.change_extension import xlsx_to_json
+from util.pre_processing import get_tfidf_matrix, get_token, remove_except_parentheses
 
 
 def get_object_name(json_data):
@@ -33,7 +34,7 @@ if __name__ == '__main__':
     data_dir = os.path.join(os.getcwd(), "data")
     json_dir = os.path.join(data_dir, "json")
 
-    file_name = "속성테이블2(빌딩스마트협화)"
+    file_name = "속성테이블(프로세스)"
 
     # xlsx_to_json(file_name)
 
@@ -46,15 +47,18 @@ if __name__ == '__main__':
     names = get_object_name(json_data)
     values = get_object_values(json_data)
 
-    # result = get_gestalt_pattern_matching(names, values)
-    result = get_jaccard_similarity(names, values)
+    # # result = get_gestalt_pattern_matching(names, values)
+    # result = get_jaccard_similarity(names, values)
+    result = get_cosine_similarity_tf_idf(names, values)
 
     save_path = os.path.join(data_dir, "similarity", f"{
-                             file_name}_jaccard.xlsx")
+                             file_name}_cosine_tfidf.xlsx")
 
     last_row = 0
+    size = len(result)
     with pd.ExcelWriter(save_path) as writer:
         for idx, df in enumerate(result):
+            print(f"{idx+1}/{size}")
             object_name = names[idx]
             object_name_df = pd.DataFrame(
                 [object_name], columns=["Object Name"])
