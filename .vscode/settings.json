@@ -3,7 +3,12 @@
     "isna",
     "iterrows",
     "jaccard",
+    "konlpy",
     "linalg",
-    "startrow"
+    "startrow",
+    "Tfidf",
+    "toarray",
+    "todense",
+    "Vectorizer"
   ]
 }
