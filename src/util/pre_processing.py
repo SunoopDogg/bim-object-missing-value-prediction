@@ -1,4 +1,5 @@
 import re
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def remove_except_parentheses(text):
@@ -20,3 +21,9 @@ def get_token(text):
             f'protected_text_{i}', match) for token in tokens]
 
     return tokens
+
+
+def get_tfidf_matrix(corpus):
+    # TF-IDF 행렬 생성
+    vectorizer = TfidfVectorizer()
+    return vectorizer.fit_transform(corpus)
