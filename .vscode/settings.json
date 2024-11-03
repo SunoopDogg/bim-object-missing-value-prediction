@@ -5,6 +5,7 @@
     "jaccard",
     "konlpy",
     "linalg",
+    "sorensen",
     "startrow",
     "Tfidf",
     "toarray",
