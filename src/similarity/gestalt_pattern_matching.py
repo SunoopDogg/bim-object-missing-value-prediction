@@ -30,3 +30,7 @@ def get_gestalt_pattern_matching(names, values):
         result.append(df)
 
     return result
+
+
+def get_gestalt_pattern_matching_similarity(token, value):
+    return difflib.SequenceMatcher(None, str(value), str(token)).ratio()

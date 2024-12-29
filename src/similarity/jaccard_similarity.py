@@ -35,3 +35,7 @@ def get_jaccard_similarity(names, values):
         result.append(df)
 
     return result
+
+
+def get_jaccard_similarity_similarity(token, value):
+    return jaccard_sim(set(get_token(remove_except_parentheses(str(value)))), set([token]))
