@@ -1,19 +1,16 @@
 [
     {
-        "ObjectType": "IfcBuildingElementProxy",
+        "ObjectType": "대치동Elevator-Door:1100",
         "GlobalID": "1_irOZSpb6OOJC_u7aKaOm",
         "Name": "대치동Elevator-Door:1100:119822",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "대치동Elevator-Door:1100"
-        },
+        "PredefinedType": "",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
-            "OmniClass 번호": NaN,
-            "OmniClass 제목": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
+            "OmniClass 번호": "",
+            "OmniClass 제목": "",
             "유형 이름": "1100",
-            "코드 이름": NaN
+            "코드 이름": ""
         },
         "Pset_BuildingElementProxyCommon": {
             "Reference": "1100"
@@ -60,15 +57,12 @@
         }
     },
     {
-        "ObjectType": "IfcBuildingElementProxy",
+        "ObjectType": "",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeWN8",
         "Name": "140171",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": NaN
-        },
+        "PredefinedType": "",
         "Pset_BuildingElementProxyCommon": {
-            "Reference": NaN
+            "Reference": ""
         },
         "Pset_ProvisionForVoid": {
             "Shape": "Rectangle",
@@ -77,7 +71,7 @@
             "Depth": 269.99999999999926
         },
         "Pset_QuantityTakeOff": {
-            "Reference": NaN
+            "Reference": ""
         },
         "공정": {
             "생성 공정": "조적"
@@ -94,15 +88,12 @@
         }
     },
     {
-        "ObjectType": "IfcBuildingElementProxy",
+        "ObjectType": "",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeZcv",
         "Name": "139258",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": NaN
-        },
+        "PredefinedType": "",
         "Pset_BuildingElementProxyCommon": {
-            "Reference": NaN
+            "Reference": ""
         },
         "Pset_ProvisionForVoid": {
             "Shape": "Rectangle",
@@ -111,7 +102,7 @@
             "Depth": 600
         },
         "Pset_QuantityTakeOff": {
-            "Reference": NaN
+            "Reference": ""
         },
         "공정": {
             "생성 공정": "조적"
@@ -128,19 +119,16 @@
         }
     },
     {
-        "ObjectType": "IfcDoor",
+        "ObjectType": "FSD-2:1.0x2.2",
         "GlobalID": "1QNAriMu1FlxXB_d6tGdho",
         "Name": "FSD-2:1.0x2.2:116174",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "FSD-2:1.0x2.2"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
-            "OmniClass 번호": NaN,
-            "OmniClass 제목": NaN,
-            "코드 이름": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
+            "OmniClass 번호": "",
+            "OmniClass 제목": "",
+            "코드 이름": "",
             "유형 마크": "63",
             "유형 이름": "1.0x2.2",
             "마크": "19"
@@ -188,19 +176,16 @@
         }
     },
     {
-        "ObjectType": "IfcDoor",
+        "ObjectType": "FSD-1:1.0x2.2",
         "GlobalID": "1QNAriMu1FlxXB_d6tGdi5",
         "Name": "FSD-1:1.0x2.2:115769",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "FSD-1:1.0x2.2"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
-            "OmniClass 번호": NaN,
-            "OmniClass 제목": NaN,
-            "코드 이름": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
+            "OmniClass 번호": "",
+            "OmniClass 제목": "",
+            "코드 이름": "",
             "유형 마크": "60",
             "유형 이름": "1.0x2.2",
             "마크": "18"
@@ -248,16 +233,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니후면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGabj",
         "Name": "난간:발코니후면:128593",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니후면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니후면"
         },
         "Pset_QuantityTakeOff": {
@@ -301,16 +283,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니전면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGadX",
         "Name": "난간:발코니전면:128733",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니전면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니전면"
         },
         "Pset_QuantityTakeOff": {
@@ -354,16 +333,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니후면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGaUA",
         "Name": "난간:발코니후면:129206",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니후면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니후면"
         },
         "Pset_QuantityTakeOff": {
@@ -407,16 +383,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니전면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGaWl",
         "Name": "난간:발코니전면:128787",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니전면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니전면"
         },
         "Pset_QuantityTakeOff": {
@@ -460,16 +433,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니전면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGaXb",
         "Name": "난간:발코니전면:128857",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니전면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니전면"
         },
         "Pset_QuantityTakeOff": {
@@ -513,16 +483,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니전면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGaYs",
         "Name": "난간:발코니전면:128906",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니전면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니전면"
         },
         "Pset_QuantityTakeOff": {
@@ -566,16 +533,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:발코니후면",
         "GlobalID": "1QNAriMu1FlxXB_d6tGRjZ",
         "Name": "난간:발코니후면:132191",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:발코니후면"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "발코니후면"
         },
         "Pset_QuantityTakeOff": {
@@ -619,16 +583,13 @@
         }
     },
     {
-        "ObjectType": "IfcRailing",
+        "ObjectType": "난간:1100mm",
         "GlobalID": "1QNAriMu1FlxXB_d6tGRYY",
         "Name": "난간:1100mm:133022",
-        "NaN": {
-            "PredefinedType": "NOTDEFINED",
-            "ObjectType": "난간:1100mm"
-        },
+        "PredefinedType": "NOTDEFINED",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "1100mm"
         },
         "Pset_QuantityTakeOff": {
@@ -671,16 +632,13 @@
         }
     },
     {
-        "ObjectType": "IfcSlab",
+        "ObjectType": "바닥:코크리트 180",
         "GlobalID": "003xD9$Mr3xefO83Uwri1Y",
         "Name": "바닥:코크리트 180:132467:2",
-        "NaN": {
-            "PredefinedType": "FLOOR",
-            "ObjectType": "바닥:코크리트 180"
-        },
+        "PredefinedType": "FLOOR",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "코크리트 180",
             "연관 있음": 0
         },
@@ -741,16 +699,13 @@
         }
     },
     {
-        "ObjectType": "IfcSlab",
+        "ObjectType": "바닥:코크리트 210",
         "GlobalID": "1QNAriMu1FlxXB_d6tGaOv",
         "Name": "바닥:코크리트 210:129285",
-        "NaN": {
-            "PredefinedType": "FLOOR",
-            "ObjectType": "바닥:코크리트 210"
-        },
+        "PredefinedType": "FLOOR",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "코크리트 210",
             "연관 있음": 0
         },
@@ -811,16 +766,13 @@
         }
     },
     {
-        "ObjectType": "IfcSlab",
+        "ObjectType": "바닥:코크리트 180",
         "GlobalID": "1QNAriMu1FlxXB_d6tGRfF",
         "Name": "바닥:코크리트 180:132467",
-        "NaN": {
-            "PredefinedType": "FLOOR",
-            "ObjectType": "바닥:코크리트 180"
-        },
+        "PredefinedType": "FLOOR",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "코크리트 180",
             "연관 있음": 0
         },
@@ -881,16 +833,13 @@
         }
     },
     {
-        "ObjectType": "IfcStair",
+        "ObjectType": "계단:콘크리트 계단",
         "GlobalID": "1QNAriMu1FlxXB_d6tGRhq",
         "Name": "계단:콘크리트 계단:132552",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "계단:콘크리트 계단"
-        },
+        "PredefinedType": "",
         "ID 데이터(Type)": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 계단"
         },
         "Pset_QuantityTakeOff": {
@@ -987,13 +936,10 @@
         }
     },
     {
-        "ObjectType": "IfcStairFlight",
+        "ObjectType": "계단:콘크리트 계단",
         "GlobalID": "1QNAriMu1FlxXB_dItGRhq",
         "Name": "계단:콘크리트 계단:132552:2",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "계단:콘크리트 계단"
-        },
+        "PredefinedType": "",
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 계단"
         },
@@ -1009,17 +955,14 @@
         }
     },
     {
-        "ObjectType": "IfcWall",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "1QNAriMu1FlxXB_d6tGdgK",
         "Name": "기본 벽:콘크리트 200:116136",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -1089,17 +1032,14 @@
         }
     },
     {
-        "ObjectType": "IfcWall",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKG",
         "Name": "기본 벽:콘크리트 200:92840",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -1169,16 +1109,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈",
         "GlobalID": "0I3O6enk92XgT48R6IxJfb",
         "Name": "기본 벽:내부 - 18mm 시멘트 몰탈:107926",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "내부 - 18mm 시멘트 몰탈"
         },
         "Pset_QuantityTakeOff": {
@@ -1245,16 +1182,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈",
         "GlobalID": "0I3O6enk92XgT48R6IxJfE",
         "Name": "기본 벽:내부 - 18mm 시멘트 몰탈:107965",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "내부 - 18mm 시멘트 몰탈"
         },
         "Pset_QuantityTakeOff": {
@@ -1321,16 +1255,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈",
         "GlobalID": "0I3O6enk92XgT48R6IxJfR",
         "Name": "기본 벽:내부 - 18mm 시멘트 몰탈:107944",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "내부 - 18mm 시멘트 몰탈"
         },
         "Pset_QuantityTakeOff": {
@@ -1397,16 +1328,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "0I3O6enk92XgT48R6IxJn9",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:107450",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -1477,16 +1405,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈",
         "GlobalID": "1QNAriMu1FlxXB_d6tGWSE",
         "Name": "기본 벽:내부 - 18mm 시멘트 몰탈:112690",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:내부 - 18mm 시멘트 몰탈"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "내부 - 18mm 시멘트 몰탈"
         },
         "Pset_QuantityTakeOff": {
@@ -1553,17 +1478,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "1QNAriMu1FlxXB_d6tGWT9",
         "Name": "기본 벽:콘크리트 200:112757",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -1633,17 +1555,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "1QNAriMu1FlxXB_d6tGWUN",
         "Name": "기본 벽:콘크리트 200:112811",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -1713,16 +1632,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "1wy3a1ST5F2xei1IZeQYMa",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93751",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -1793,16 +1709,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 시멘트벽돌벽",
         "GlobalID": "1wy3a1ST5F2xei1IZeQYOg",
         "Name": "기본 벽:일반 - 90mm 시멘트벽돌벽:93625",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 시멘트벽돌벽"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 시멘트벽돌벽"
         },
         "Pset_QuantityTakeOff": {
@@ -1873,16 +1786,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 시멘트벽돌벽",
         "GlobalID": "1wy3a1ST5F2xei1IZeQYPl",
         "Name": "기본 벽:일반 - 90mm 시멘트벽돌벽:93692",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 시멘트벽돌벽"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 시멘트벽돌벽"
         },
         "Pset_QuantityTakeOff": {
@@ -1953,17 +1863,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeWIo",
         "Name": "기본 벽:콘크리트 200:140017",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -2033,16 +1940,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C4",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeWS4",
         "Name": "기본 벽:C4:139591",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C4"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C4"
         },
         "Pset_QuantityTakeOff": {
@@ -2113,16 +2017,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C2",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeZkE",
         "Name": "기본 벽:C2:138701",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C2"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C2"
         },
         "Pset_QuantityTakeOff": {
@@ -2193,16 +2094,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C3",
         "GlobalID": "3F3dHMi2H6lv7t2a8SeZZf",
         "Name": "기본 벽:C3:138922",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C3"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C3"
         },
         "Pset_QuantityTakeOff": {
@@ -2273,16 +2171,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPA_",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93446",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2353,16 +2248,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPA0",
         "Name": "기본 벽:일반 - 90mm 벽돌:93496",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2433,16 +2325,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAc",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93470",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2513,16 +2402,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAg",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93458",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2593,16 +2479,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAk",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93462",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2673,16 +2556,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAo",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93450",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2753,16 +2633,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAQ",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93474",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2833,16 +2710,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAs",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93454",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2913,16 +2787,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPAY",
         "Name": "기본 벽:일반 - 190mm 시멘트벽돌:93466",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 190mm 시멘트벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 190mm 시멘트벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -2993,16 +2864,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPC0",
         "Name": "기본 벽:일반 - 90mm 벽돌:93368",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3073,16 +2941,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPC4",
         "Name": "기본 벽:일반 - 90mm 벽돌:93372",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3153,16 +3018,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPC8",
         "Name": "기본 벽:일반 - 90mm 벽돌:93360",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3233,16 +3095,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCa",
         "Name": "기본 벽:일반 - 90mm 벽돌:93340",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3313,16 +3172,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCC",
         "Name": "기본 벽:일반 - 90mm 벽돌:93364",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3393,16 +3249,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCG",
         "Name": "기본 벽:일반 - 90mm 벽돌:93352",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3473,16 +3326,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCi",
         "Name": "기본 벽:일반 - 90mm 벽돌:93332",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3553,16 +3403,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCK",
         "Name": "기본 벽:일반 - 90mm 벽돌:93356",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3633,16 +3480,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCO",
         "Name": "기본 벽:일반 - 90mm 벽돌:93344",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3713,16 +3557,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCS",
         "Name": "기본 벽:일반 - 90mm 벽돌:93348",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3793,16 +3634,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPCW",
         "Name": "기본 벽:일반 - 90mm 벽돌:93336",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3873,16 +3711,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPD8",
         "Name": "기본 벽:일반 - 90mm 벽돌:93424",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -3953,16 +3788,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDa",
         "Name": "기본 벽:일반 - 90mm 벽돌:93404",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4033,16 +3865,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDe",
         "Name": "기본 벽:일반 - 90mm 벽돌:93392",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4113,16 +3942,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDG",
         "Name": "기본 벽:일반 - 90mm 벽돌:93416",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4193,16 +4019,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDi",
         "Name": "기본 벽:일반 - 90mm 벽돌:93396",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4273,16 +4096,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDm",
         "Name": "기본 벽:일반 - 90mm 벽돌:93384",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4353,16 +4173,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDO",
         "Name": "기본 벽:일반 - 90mm 벽돌:93408",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4433,16 +4250,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDq",
         "Name": "기본 벽:일반 - 90mm 벽돌:93388",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4513,16 +4327,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDS",
         "Name": "기본 벽:일반 - 90mm 벽돌:93412",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4593,16 +4404,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDu",
         "Name": "기본 벽:일반 - 90mm 벽돌:93376",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4673,16 +4481,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDW",
         "Name": "기본 벽:일반 - 90mm 벽돌:93400",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4753,16 +4558,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:일반 - 90mm 벽돌",
         "GlobalID": "3R6LYycfP2Afu07g3RCPDy",
         "Name": "기본 벽:일반 - 90mm 벽돌:93380",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:일반 - 90mm 벽돌"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "일반 - 90mm 벽돌"
         },
         "Pset_QuantityTakeOff": {
@@ -4833,16 +4635,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPG4",
         "Name": "기본 벽:콘크리트 150:93116",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -4913,17 +4712,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPGd",
         "Name": "기본 벽:콘크리트 200:93087",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -4993,17 +4789,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPGh",
         "Name": "기본 벽:콘크리트 200:93075",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -5073,17 +4866,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPGl",
         "Name": "기본 벽:콘크리트 200:93079",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -5153,17 +4943,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPGR",
         "Name": "기본 벽:콘크리트 200:93091",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -5233,17 +5020,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPGZ",
         "Name": "기본 벽:콘크리트 200:93083",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -5313,16 +5097,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHb",
         "Name": "기본 벽:콘크리트 150:93149",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -5393,16 +5174,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C1",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHe",
         "Name": "기본 벽:C1:93136",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C1"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C1"
         },
         "Pset_QuantityTakeOff": {
@@ -5473,16 +5251,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHm",
         "Name": "기본 벽:콘크리트 150:93128",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -5553,16 +5328,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHq",
         "Name": "기본 벽:콘크리트 150:93132",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -5633,16 +5405,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHu",
         "Name": "기본 벽:콘크리트 150:93120",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -5713,16 +5482,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 150",
         "GlobalID": "3R6LYycfP2Afu07g3RCPHy",
         "Name": "기본 벽:콘크리트 150:93124",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 150"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "콘크리트 150"
         },
         "Pset_QuantityTakeOff": {
@@ -5793,16 +5559,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C1",
         "GlobalID": "3R6LYycfP2Afu07g3RCPK3",
         "Name": "기본 벽:C1:92859",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C1"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C1"
         },
         "Pset_QuantityTakeOff": {
@@ -5873,17 +5636,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPK7",
         "Name": "기본 벽:콘크리트 200:92863",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -5953,17 +5713,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPK8",
         "Name": "기본 벽:콘크리트 200:92848",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6033,17 +5790,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKa",
         "Name": "기본 벽:콘크리트 200:92828",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6113,16 +5867,13 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:C1",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKF",
         "Name": "기본 벽:C1:92855",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:C1"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
-            "조합 설명": NaN,
-            "조합 코드": NaN,
+            "조합 설명": "",
+            "조합 코드": "",
             "유형 이름": "C1"
         },
         "Pset_QuantityTakeOff": {
@@ -6193,17 +5944,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKi",
         "Name": "기본 벽:콘크리트 200:92820",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6273,17 +6021,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKK",
         "Name": "기본 벽:콘크리트 200:92844",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6353,17 +6098,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKO",
         "Name": "기본 벽:콘크리트 200:92832",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6433,17 +6175,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKr",
         "Name": "기본 벽:콘크리트 200:92813",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6513,17 +6252,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKS",
         "Name": "기본 벽:콘크리트 200:92836",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6593,17 +6329,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKv",
         "Name": "기본 벽:콘크리트 200:92801",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6673,17 +6406,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKW",
         "Name": "기본 벽:콘크리트 200:92824",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6753,17 +6483,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPKz",
         "Name": "기본 벽:콘크리트 200:92805",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6833,17 +6560,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPN1",
         "Name": "기본 벽:콘크리트 200:92793",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6913,17 +6637,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPN5",
         "Name": "기본 벽:콘크리트 200:92797",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
@@ -6993,17 +6714,14 @@
         }
     },
     {
-        "ObjectType": "IfcWallStandardCase",
+        "ObjectType": "기본 벽:콘크리트 200",
         "GlobalID": "3R6LYycfP2Afu07g3RCPND",
         "Name": "기본 벽:콘크리트 200:92789",
-        "NaN": {
-            "PredefinedType": NaN,
-            "ObjectType": "기본 벽:콘크리트 200"
-        },
+        "PredefinedType": "",
         "ID 데이터": {
             "유형 이름": "콘크리트 200",
-            "조합 설명": NaN,
-            "조합 코드": NaN
+            "조합 설명": "",
+            "조합 코드": ""
         },
         "Pset_QuantityTakeOff": {
             "Reference": "콘크리트 200"
