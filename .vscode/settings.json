@@ -5,11 +5,12 @@
     "jaccard",
     "konlpy",
     "linalg",
+    "sict",
     "sorensen",
     "startrow",
     "Tfidf",
     "toarray",
     "todense",
-    "Vectorizer"
+    "vectorizer"
   ]
 }
