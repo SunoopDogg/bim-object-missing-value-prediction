@@ -12,7 +12,7 @@ FILE_NAME = '속성테이블(프로세스)'
 DELIMITER_LIST = ['_', ' ', '-']
 
 
-def get_similality_each_values(tokens, bim_object, func):
+def get_similarity_each_values(tokens, bim_object, func):
     """
     BIM 객체의 각 값에 대해 유사도를 계산하는 함수
 
@@ -29,7 +29,7 @@ def get_similality_each_values(tokens, bim_object, func):
     for k, v in bim_object.items():
         if isinstance(v, dict):
             # 값이 딕셔너리인 경우 재귀 호출
-            result[k] = get_similality_each_values(tokens, v, func)
+            result[k] = get_similarity_each_values(tokens, v, func)
         else:
             similarity = {}
 
@@ -64,9 +64,7 @@ if __name__ == '__main__':
             extended_tokens.extend(combine_two_tokens(tokens, delimiter))
 
         # 유사도 계산
-        # similarity_object = get_similality_each_values(
-        #     extended_tokens, new_bim_object, get_gestalt_pattern_matching_similarity)
-        similarity_object = get_similality_each_values(
+        similarity_object = get_similarity_each_values(
             extended_tokens, new_bim_object, get_jaccard_similarity_similarity)
 
         # 결과 객체 생성
