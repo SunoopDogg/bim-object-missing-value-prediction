@@ -78,6 +78,26 @@ def xlsx_to_json(file_name: str):
     return result
 
 
+def json_to_dict(file_name: str):
+    """
+    JSON 파일을 딕셔너리로 변환하는 함수
+
+    Args:
+        file_name (str): 파일명
+
+    Returns:
+        dict: JSON 데이터
+    """
+    data_dir = os.path.join(os.getcwd(), "data")
+    json_dir = os.path.join(data_dir, "json")
+    file_path = os.path.join(json_dir, f"{file_name}.json")
+
+    with open(file_path, "r") as f:
+        json_data = f.read()
+
+    return json.loads(json_data)
+
+
 def list_to_xlsx(columns, data, file):
     """
     리스트 데이터를 엑셀 파일로 저장하는 함수
