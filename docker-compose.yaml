@@ -3,14 +3,16 @@ name: sict-bim
 services:
   python:
     build: .
-    container_name: python
+    container_name: sict-bim-python
     tty: true
     volumes:
       - .:/root/sict-bim
   
   mongo:
     image: mongodb/mongodb-community-server:8.0.4-ubuntu2204
-    container_name: mongo
+    container_name: sict-bim-mongo
     tty: true
     ports:
       - "27017:27017"
+    volumes:
+      - ./data:/data/db
